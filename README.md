@@ -96,12 +96,7 @@ smoothing noise and smoothing texture identically, which is wrong in opposite di
 
 ```
 <img width="2816" height="1415" alt="Gemini_Generated_Image_xd6j5cxd6j5cxd6j" src="https://github.com/user-attachments/assets/c8bb3073-af89-4581-8cab-bbc66fff974b" />
-| Component | Params | Role |
-|---|---:|---|
-| Degradation Estimator | 1,308 | Compresses `y` into a 4-D embedding `z` describing *how* it was degraded |
-| Shared Learned Prior | 48,257 | FiLM-modulated residual CNN — **weight-tied across all 3 stages** |
-| Step sizes `α₁…α₃` | 3 | Learned per-stage data-consistency step (softplus-parameterised, always positive) |
-| **Total** | **49,568** | |
+
 
 ---
 
