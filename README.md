@@ -5,8 +5,6 @@
 ### Reconstructing 256×256 semiconductor imagery from noisy 128×128 observations
 ### with **49,568 parameters** — at **14 ms/image**
 
-**SEMICON / KLA Hackathon 2026 — Phase 2 Submission**
-
 `Deep Algorithm Unrolling` · `FiLM Conditioning` · `Learned Degradation Embedding` · `Noise-Aware Loss`
 
 </div>
