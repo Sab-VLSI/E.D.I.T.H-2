@@ -2,7 +2,7 @@
 
 # SEM Image Restoration via Physics-Inspired Deep Unrolling
 
-### Reconstructing 256×256 semiconductor imagery from noisy 128×128 observations
+### Reconstructing 512×512 and 256×256 semiconductor imagery from noisy 256×256 and 128×128 observations respectively
 ### with **49,568 parameters** — at **14 ms/image**
 
 `Deep Algorithm Unrolling` · `FiLM Conditioning` · `Learned Degradation Embedding` · `Noise-Aware Loss`
