@@ -64,7 +64,7 @@ smoothing noise and smoothing texture identically, which is wrong in opposite di
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 ```
    y (NoisyLR, 128×128)
@@ -100,7 +100,7 @@ smoothing noise and smoothing texture identically, which is wrong in opposite di
 
 ---
 
-## 💡 What Is Novel Here
+## What Is Novel Here
 
 ### 1. Physics is in the architecture, not just the loss
 
@@ -144,7 +144,7 @@ features. Diagnostics showed the original design spent **77% of its total gain i
 
 ---
 
-## 🎯 Engineering Discipline: Measured, Not Guessed
+## Engineering Discipline: Measured, Not Guessed
 
 Every shipped choice was validated against a held-out split, and several plausible ideas were
 **rejected on evidence**. This is the part of the work that does not show up in a single
@@ -232,7 +232,7 @@ not FLOPs — which dictates the optimizations:
 
 ---
 
-## ✅ Submission Compliance
+## Submission Compliance
 
 | Requirement | Status |
 |---|---|
