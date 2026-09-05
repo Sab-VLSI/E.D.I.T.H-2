@@ -1,7 +1,6 @@
 """
 run.py
 ======
-SEMICON / KLA Hackathon 2026 — Official Submission Entry Point.
 
 Usage:
     python run.py <input-dir> <output-dir>
